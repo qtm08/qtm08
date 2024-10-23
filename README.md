@@ -13,15 +13,15 @@ Sou estudante de Engenharia de Software na Unicesumar!
 
 * Me interessei por front-end durante o ensino médio;
 * Gosto muito de artes;
-* Sou fã da área da ciência e mecânica.
+* Acho ciência muito legal!
 
   <img src="https://github.com/qtm08/dio-lab-open-source/assets/168381196/74e3388c-2ed5-43f9-8ea8-f5e3994794d3" alt="imagem"> **Por que escolhi essa área?**
 
 - Eu questionei qual profissão seguir: arquitetura, dança, música, atuação, artes... mas nunca parei em uma coisa para focar e me profissionalizar de verdade, até um dia em que me colocaram numa escola técnica e descobri essa área de tecnologia e achei que era a coisa mais legal do mundo!
 
-- Ainda gosto de artes, música, dança e atuação, e na área de tecnologia perdi um pouco do medo de matemática e admiro arquitetura, mesmo que não pense em seguir carreira; porém, eu quero mesmo ser engenheira de software e produzir algo que ajude as pessoas <33
+- Ainda gosto de artes, música, dança e atuação, e na área de tecnologia perdi um pouco do medo de matemática, mesmo que não pense em seguir carreira; porém, eu quero mesmo ser engenheira de software e produzir algo que ajude as pessoas <33
 
-- Sou uma pessoa inerentemente criativa e preciso sempre criar alguma coisa, seja com minhas mãos ou cabeça! E a área de front-end permite isso, com tantas possibilidades para não criar apenas algo bonito, mas funcional e prático, sem precisar sacrificar o agradável aos olhos.
+- Sou uma pessoa  criativa e preciso sempre criar alguma coisa, seja com minhas mãos ou cabeça! E a área de front-end permite isso, com tantas possibilidades para não criar apenas algo bonito, mas funcional e prático.
 
 ---
 ### Habilidades:
@@ -43,7 +43,10 @@ Sou estudante de Engenharia de Software na Unicesumar!
     </a>
     <a href="https://github.com/qtm08">
         <img src="https://img.shields.io/badge/Github-%F8C8DCA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
+            </a>
+      <a href="https://www.instagram.com/_lilasart/">
+         <img src="https://img.shields.io/badge/Instagram-%23FFD700?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
 </p>
 
 
