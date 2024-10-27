@@ -13,7 +13,6 @@ Sou estudante de Engenharia de Software na Unicesumar!
 
 * Me interessei por front-end durante o ensino médio;
 * Gosto muito de artes;
-* Acho ciência muito legal!
 
   <img src="https://github.com/qtm08/dio-lab-open-source/assets/168381196/74e3388c-2ed5-43f9-8ea8-f5e3994794d3" alt="imagem"> **Por que escolhi essa área?**
 
